@@ -19,3 +19,5 @@ e.g. python flowercount.py /images YYYYMMDD /flowermodel.pt true false
 <rename> defines whether to rename images this can be helpful for images in a set sequence where a walk path can be defined and relies upon a .txt file called labels.txt with each row containing a name for the corresponding image
 
 check flowercount.py for requirements
+
+model was trained from a set of images taken on an iphone 16 and may not generalise well to other sensors and environments 
